@@ -1,6 +1,6 @@
 # Android Weather App
 
-This is a simple weather forecast application developed as part of Assignment #6 for **ECE 422C – Software Design & Implementation II** at **The University of Texas at Austin (Fall 2023)**. The goal of this project was to gain hands-on experience with Android development, Java networking, and JSON parsing.
+This is a simple weather forecast application that I developed. The goal of this project was to gain hands-on experience with Android development, Java networking, and JSON parsing.
 
 ## 📱 Features
 
@@ -19,24 +19,12 @@ This is a simple weather forecast application developed as part of Assignment #6
 3. Temperatures are averaged per day
 4. Results are displayed in a scrollable list format on the screen
 
-## 🏆 Bonus Features (Optional)
 
-The app supports optional enhancements to earn extra credit:
+The app supports optional enhancements:
 
-- **Bonus 1:** Display additional metrics like humidity, wind, pressure, visibility, or rain
-- **Bonus 2:** Add visualizations like charts and graphs to improve UI/UX
-- **Bonus 3:** Integrate a machine learning-based temperature predictor for tomorrow using the Weka framework and a dataset of at least 100 entries
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/mneematallah/Android-Weather-App.git
-Open the project in Android Studio
-
-Run the app on an emulator or a physical device
-
-(Optional) Update the API query or add your own enhancements
+- Display additional metrics like humidity, wind, pressure, visibility, or rain
+- Add visualizations like charts and graphs to improve UI/UX
+- Integrate a machine learning-based temperature predictor for tomorrow using the Weka framework and a dataset of at least 100 entries
 
 📚 Technologies Used
 Java
@@ -50,3 +38,10 @@ Open-Meteo API
 JSON Parsing
 
 (Optional) Weka for ML
+
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/mneematallah/Android-Weather-App.git
